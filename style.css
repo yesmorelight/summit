@@ -23,7 +23,7 @@ h1 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 10px;}
 
 /*MAIN*/
 .main {
-	background-image: url("img/duo2.jpg");
+	background-image: url("duo2.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 750px;
@@ -74,7 +74,7 @@ h1 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 10px;}
 
 .oneimg {
 	height: 380px;
-	background-image: url("img/second.jpg");
+	background-image: url("second.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -98,7 +98,7 @@ h1 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 10px;}
 
 .twoimg {
 	height: 380px;
-	background-image: url("img/third.jpg");
+	background-image: url("third.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
@@ -122,7 +122,7 @@ h1 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 10px;}
 
 .threeimg {
 	height: 380px;
-	background-image: url("img/fourth.jpg");
+	background-image: url("fourth.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 }
