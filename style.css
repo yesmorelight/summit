@@ -1,0 +1,128 @@
+/*GLOBAL*/
+body {
+	padding: 0;
+	margin: 0;
+	overflow-x: hidden;
+}
+
+.row {padding: 0; margin: 0;}
+
+.jumbotron {
+	margin:0;
+	padding:0;
+	border-radius:0;
+	width: 100%;
+}
+
+p {font-family: 'Quicksand', 'sans-serif';}
+
+h3 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 3px;}
+
+h1 {font-family: 'Russo One', 'sans-serif'; letter-spacing: 10px;}
+
+
+/*MAIN*/
+.main {
+	background-image: url("img/duo2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 750px;
+	color: white;
+	text-align: center;
+}
+
+.main p {
+
+	margin: 10px auto;
+}
+
+.main h1 {
+	padding-top: 17%;
+	margin-bottom: -5px;
+}
+
+.main a {
+	color: white;
+	text-decoration: none;
+	background-color: #735D77;
+	margin-top: 20px;
+	padding: 10px 20px;
+	font-family: 'Quicksand', 'sans-serif';
+}
+
+.main a:hover {
+	cursor: pointer;
+	background-color: #574989;
+}
+
+/*FIRST TXT*/
+.onetxt {
+	background-color: #33358E;
+	color: white;
+	height: 380px;
+	text-align: center;
+}
+
+.onetxt h3 {
+	padding-top: 25%;
+}
+
+.onetxt p {
+	max-width: 70%;
+	margin: auto;
+}
+
+.oneimg {
+	height: 380px;
+	background-image: url("img/second.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/*SECOND TXT*/
+.twotxt {
+	background-color: #33358E;
+	color: white;
+	height: 380px;
+	text-align: center;
+}
+
+.twotxt h3 {
+	padding-top: 20%;
+}
+
+.twotxt p {
+	max-width: 70%;
+	margin: auto;
+}
+
+.twoimg {
+	height: 380px;
+	background-image: url("img/third.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/*THIRD TXT*/
+.threetxt {
+	background-color: #33358E;
+	color: white;
+	height: 380px;
+	text-align: center;
+}
+
+.threetxt h3 {
+	padding-top: 25%;
+}
+
+.threetxt p {
+	max-width: 70%;
+	margin: auto;
+}
+
+.threeimg {
+	height: 380px;
+	background-image: url("img/fourth.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
